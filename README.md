@@ -16,7 +16,7 @@ Aquest repositori recull el conjunt de tasques, proves i documentació generades
 
 Després de mesos convivint amb incidents, pressió, responsabilitats diverses i creixement professional intens, aquest projecte representa l’últim salt abans de sortir d’EverPia —i fer-ho per la porta gran.
 
-📌 Objectiu del projecte
+**Objectiu del projecte**
 
 Integrar, en un sol entorn professional, tots els coneixements tècnics, organitzatius i creatius adquirits durant el trimestre:
 
@@ -30,7 +30,7 @@ Planificar i executar tasques amb autonomia progressiva.
 
 Crear una carpeta de treball que funcioni com a carta de presentació professional.
 
-🧩 Continguts treballats
+**Continguts treballats**
 
 Aquest projecte combina:
 
@@ -62,7 +62,7 @@ Integració de criteris de sostenibilitat i economia circular en l’àmbit tecn
 <img width="545" height="351" alt="P4 index1" src="https://github.com/user-attachments/assets/11c93699-24cc-43f8-b123-2ddc15e854ed" />
 
 
-🎯 Objectius generals
+Objectius generals
 
 Integrar coneixements de seguretat, sistemes, xarxes i aplicacions web.
 
@@ -94,7 +94,7 @@ Millorar autonomia, comunicació i capacitat de resolució.
 
 Aquests elements conformen la meva carpeta professional, demostrant el progrés tècnic i personal assolit durant tota l’experiència EverPia.
 
-🚀 Conclusió
+**Conclusió**
 
 Aquest projecte no és caos: és experiència accelerada.
 És el reflex d’un júnior IT que comença a caminar amb criteri, autonomia i mirada pròpia—preparat per sortir d’EverPia i afrontar nous reptes professionals.
