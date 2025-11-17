@@ -63,7 +63,7 @@ Organització del flux de treball amb Kanban.
 Integració de criteris de sostenibilitat i economia circular en l’àmbit tecnològic.
 
 
-<img width="400" height="350" alt="P4 index1" src="https://github.com/user-attachments/assets/11c93699-24cc-43f8-b123-2ddc15e854ed" />
+<img width="450" height="350" alt="P4 index1" src="https://github.com/user-attachments/assets/11c93699-24cc-43f8-b123-2ddc15e854ed" />
 
 
 ## **Objectius generals**
