@@ -101,5 +101,5 @@ Aquest projecte no és caos: és experiència accelerada.
 
 <img width="384" height="339" alt="P4 index2" src="https://github.com/user-attachments/assets/a01ca826-2360-4803-9dbb-16ee07865d9c" />
 
-[**#TASQUES I PROJECTES**#](TASCASPROJECTES.md)
+[**TASQUES I PROJECTES**](TASCASPROJECTES.md)
 
