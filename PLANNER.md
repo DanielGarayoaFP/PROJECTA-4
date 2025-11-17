@@ -20,5 +20,5 @@ A continuació tens l’estructura amb el enllaços per GitHub :
 https://planner.cloud.microsoft/webui/plan/Rx-tMtnCNEmesZsGIVmjxpYAAbOH/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317
 
 
-
+[🔙](README.md)
 
