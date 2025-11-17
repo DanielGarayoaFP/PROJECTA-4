@@ -1,6 +1,8 @@
 <img width="662" height="585" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
 
-## **PROJECTA 4**
+## ============================
+##        PROJECTE 4
+## ============================
 
 ## **Sobreviure en una empresa IT**
 
