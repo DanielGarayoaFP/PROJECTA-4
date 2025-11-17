@@ -100,3 +100,6 @@ Aquest projecte no és caos: és experiència accelerada.
 És el reflex d’un júnior IT que comença a caminar amb criteri, autonomia i mirada pròpia—preparat per sortir d’EverPia i afrontar nous reptes professionals.
 
 <img width="384" height="339" alt="P4 index2" src="https://github.com/user-attachments/assets/a01ca826-2360-4803-9dbb-16ee07865d9c" />
+
+[**#TASQUES I PROJECTES**#](TASCASPROJECTES.md)
+
