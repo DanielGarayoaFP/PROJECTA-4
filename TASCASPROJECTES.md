@@ -1,5 +1,6 @@
-<img width="384" height="339" alt="P4 index2" src="https://github.com/user-attachments/assets/7861764a-255d-4e48-b757-0b04fbab7551" />
-**TASCAS**📋
+C<img width="662" height="585" alt="P4 foto logo" src="https://github.com/user-attachments/assets/4b1225fb-862d-48fd-a6c7-39e057d93a2f" />
+
+**TASAS**📋
 
 -[Tasca1](T1)
 -[Tasca2](T2)
@@ -25,4 +26,4 @@
 TORNAR A PROJECTA 4
 
 [🔙](README.md)
-<img width="384" height="339" alt="P4 index2" src="https://github.com/user-attachments/assets/7861764a-255d-4e48-b757-0b04fbab7551" />
+
