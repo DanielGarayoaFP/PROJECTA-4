@@ -15,7 +15,7 @@ Projecte Final del Període de Pràctiques Internes – Trilogia EverPia
 Aquest repositori recull el conjunt de tasques, proves i documentació generades durant l’última etapa del període de pràctiques a EverPia, una empresa que ha servit com a ecosistema realista per experimentar el ritme, els reptes i l’aprenentatge accelerat d’una consultora tecnològica.
 
 
-<img width="526" height="528" alt="P4 index" src="https://github.com/user-attachments/assets/684f3e00-d53f-48d5-8faa-905b49b640b8" />
+<img width="450" height="350" alt="P4 index" src="https://github.com/user-attachments/assets/684f3e00-d53f-48d5-8faa-905b49b640b8" />
 
 
 Després de mesos convivint amb incidents, pressió, responsabilitats diverses i creixement professional intens, aquest projecte representa l’últim salt abans de sortir d’EverPia —i fer-ho per la porta gran.
@@ -63,7 +63,7 @@ Organització del flux de treball amb Kanban.
 Integració de criteris de sostenibilitat i economia circular en l’àmbit tecnològic.
 
 
-<img width="545" height="351" alt="P4 index1" src="https://github.com/user-attachments/assets/11c93699-24cc-43f8-b123-2ddc15e854ed" />
+<img width="400" height="350" alt="P4 index1" src="https://github.com/user-attachments/assets/11c93699-24cc-43f8-b123-2ddc15e854ed" />
 
 
 ## **Objectius generals**
