@@ -1,8 +1,8 @@
 PART 1. PRESENTACIÓ DEL PROJECTE I EL SEU OBJECTIU
-Presentació del projecte. https://drive.google.com/drive/folders/1kj0PCs8CG8nieTsxNJI06-u9n1Lb2B_X
+Presentació del projecte:https://drive.google.com/drive/folders/1kj0PCs8CG8nieTsxNJI06-u9n1Lb2B_X
 
-Presentació
-https://gamma.app/docs/Projecte-04-EverPia-iii-of0v5zzucvna565?mode=doc
+Presentació:https://gamma.app/docs/Projecte-04-EverPia-iii-of0v5zzucvna565?mode=doc
+
 Aquest projecte forma part del conjunt de tasques finals d’EverPia i té com a objectiu integrar tots els coneixements desenvolupats durant el trimestre: sistemes, xarxes, seguretat, disseny digital i documentació professional. Es treballaran eines com Rescuezilla, NFS, CUPS, Git, Figma i solucions d’accés remot.
 
 PART 2. POSADA EN MARXA
