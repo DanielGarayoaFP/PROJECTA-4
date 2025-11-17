@@ -1,4 +1,4 @@
-<img width="300" height="300" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
+<img width="350" height="350" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
 
 ## ╔════════════════════════╗
 ##      PROJECTE-4 EVERPIA
@@ -103,7 +103,7 @@ Aquests elements conformen la meva carpeta professional, demostrant el progrés 
 Aquest projecte no és caos: és experiència accelerada.
 És el reflex d’un júnior IT que comença a caminar amb criteri, autonomia i mirada pròpia—preparat per sortir d’EverPia i afrontar nous reptes professionals.
 
-<img width="662" height="585" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
+<img width="350" height="350" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
 
 [**TASQUES I PROJECTES**](TASCASPROJECTES.md)
 
