@@ -1,4 +1,4 @@
-<img width="662" height="585" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
+<img width="300" height="300" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
 
 ## ╔════════════════════════╗
 ##      PROJECTE-4 EVERPIA
