@@ -1,6 +1,6 @@
-<img width="384" height="339" alt="P4 index2" src="https://github.com/user-attachments/assets/bcd24185-9977-4df2-87e4-1efd9a52fb60" />
-
+<img width="662" height="585" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
 **# PROJECTA-4**
+
 **Sobreviure en una empresa IT**
 
 
@@ -99,7 +99,7 @@ Aquests elements conformen la meva carpeta professional, demostrant el progrés 
 Aquest projecte no és caos: és experiència accelerada.
 És el reflex d’un júnior IT que comença a caminar amb criteri, autonomia i mirada pròpia—preparat per sortir d’EverPia i afrontar nous reptes professionals.
 
-<img width="384" height="339" alt="P4 index2" src="https://github.com/user-attachments/assets/a01ca826-2360-4803-9dbb-16ee07865d9c" />
+<img width="662" height="585" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
 
 [**TASQUES I PROJECTES**](TASCASPROJECTES.md)
 
