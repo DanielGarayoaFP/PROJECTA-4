@@ -87,13 +87,21 @@ Millorar autonomia, comunicació i capacitat de resolució.
 📁 Productes finals inclosos en aquest repositori
 
 ✔️ Imatge de restauració funcional + prova documental
+
 ✔️ Informe comparatiu de solucions de backup
+
 ✔️ Documentació i proves del servidor NFS
+
 ✔️ Configuració i validació del servidor CUPS
+
 ✔️ Informe d’accés remot amb valoració de solucions
+
 ✔️ Prototip Figma corporatiu + ecommerce (enllaç inclòs)
+
 ✔️ Repositori Git organitzat amb commits coherents
+
 ✔️ Tauler Kanban actualitzat
+
 ✔️ Reflexió final sobre sostenibilitat i economia circular
 
 Aquests elements conformen la meva carpeta professional, demostrant el progrés tècnic i personal assolit durant tota l’experiència EverPia.
