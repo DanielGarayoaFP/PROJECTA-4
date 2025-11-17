@@ -1,3 +1,4 @@
+<img width="384" height="339" alt="P4 index2" src="https://github.com/user-attachments/assets/7861764a-255d-4e48-b757-0b04fbab7551" />
 **TASCAS**📋
 
 -[Tasca1](T1)
@@ -24,3 +25,4 @@
 TORNAR A PROJECTA 4
 
 [🔙](README.md)
+<img width="384" height="339" alt="P4 index2" src="https://github.com/user-attachments/assets/7861764a-255d-4e48-b757-0b04fbab7551" />
