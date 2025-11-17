@@ -1,7 +1,8 @@
 <img width="662" height="585" alt="P4 foto logo" src="https://github.com/user-attachments/assets/3df17087-64ae-43ab-ba26-aec98f63df24" />
-**# PROJECTA-4**
 
-**Sobreviure en una empresa IT**
+## **PROJECTA-4**
+
+## **Sobreviure en una empresa IT**
 
 
 EverPia 3 — Sobreviure en una empresa IT
@@ -30,7 +31,7 @@ Planificar i executar tasques amb autonomia progressiva.
 
 Crear una carpeta de treball que funcioni com a carta de presentació professional.
 
-**Continguts treballats**
+## **Continguts treballats**
 
 Aquest projecte combina:
 
@@ -94,7 +95,7 @@ Millorar autonomia, comunicació i capacitat de resolució.
 
 Aquests elements conformen la meva carpeta professional, demostrant el progrés tècnic i personal assolit durant tota l’experiència EverPia.
 
-**Conclusió**
+## **Conclusió**
 
 Aquest projecte no és caos: és experiència accelerada.
 És el reflex d’un júnior IT que comença a caminar amb criteri, autonomia i mirada pròpia—preparat per sortir d’EverPia i afrontar nous reptes professionals.
