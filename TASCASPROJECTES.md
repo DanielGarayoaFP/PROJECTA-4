@@ -1,7 +1,8 @@
 <img width="662" height="585" alt="P4 foto logo" src="https://github.com/user-attachments/assets/4b1225fb-862d-48fd-a6c7-39e057d93a2f" />
 
 ## **TASAS**📋
-[Tasca1](T1)
+[PLANNER](PLANNER)
+-[Tasca1](T1)
 -[Tasca2](T2)
 -[Tasca3](T3)
 -[Tasca4](T4)
